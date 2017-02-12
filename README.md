@@ -1,3 +1,5 @@
+Modification en cours, pour le projet "Console/Ordi" sur Retropie ...
+
 # mk_arcade_joystick_rpi #
 
 The Raspberry Pi GPIO Joystick Driver
