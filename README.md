@@ -1,4 +1,6 @@
-Modification en cours, pour le projet "Console/Ordi" sur Retropie ...
+Modification en cours, pour le projet "Console/Ordi" suite au remaping des GPIO ...
+
+![CONSOLE](https://github.com/LefebvreStephane/mk_arcade_joystick_rpi/blob/master/wiki/images/019_Final.jpg)
 
 # mk_arcade_joystick_rpi #
 
